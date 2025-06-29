@@ -32,7 +32,7 @@ In summary, the Smart Load Monitoring System provides a comprehensive, affordabl
 -	Real-time data transmission
 -	Alert via email / mobile notification
 -	Data logging for analysis
-## FLOWCHART OF THE CODE
+## FLOWCHART OF THE CODE:
 ![flow chart](https://github.com/user-attachments/assets/73718bde-a8e3-41a4-aa40-0667f4ad9884)
 ## SIMULATED CIRCUIT (WOKWI): 
 - Link
